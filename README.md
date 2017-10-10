@@ -1,12 +1,12 @@
-# _{Jasper's Dog Law Blog}_
+# _Jasper's Dog Law Blog_
 
-#### _{A webpage about Jasper and his favorite things}, {10-10-2017}_
+#### _A webpage about Jasper and his favorite things, 10-10-2017_
 
-#### By _**{Holly Wilkalis, Luke Bertram}**_
+#### By _**Holly Wilkalis, Luke Bertram**_
 
 ## Description
 
-_{This is a website to practice our new coding skills and also to talk about how awesome Jasper is.}_
+_This is a website to practice our new coding skills and also to talk about how awesome Jasper is._
 
 ## Setup/Installation Requirements
 
@@ -16,22 +16,22 @@ _{This is a website to practice our new coding skills and also to talk about how
 * _easy-to-understand_
 * _format_
 
-_{No set up needed - just open it up}_
+_No set up needed - just open it up_
 
 ## Known Bugs
 
-_{This webpage is also not aesthetically pleasing.  I apologize. Jasper is pretty cute though!}_
+_This webpage is also not aesthetically pleasing.  I apologize. Jasper is pretty cute though!_
 
 ## Support and contact details
 
-_{No known issues}_
+_No known issues_
 
 ## Technologies Used
 
-_{This webpage uses HTML.}_
+_This webpage uses HTML._
 
 ### License
 
-*{Free to everyone}*
+*Free to everyone*
 
-Copyright (c) 2016 **_{Holly Wilkalis, Luke Bertram}_**
+Copyright (c) 2016 **_Holly Wilkalis, Luke Bertram_**
